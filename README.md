@@ -4,7 +4,7 @@ Repositório para a disciplina de Transmissão de Dados da Universidade de Bras�
 ## Links úteis
 
 [Aulas online e perguntas de revisão](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
- | [Minha playlist no YouTube](https://www.youtube.com/playlist?list=PLbQD6k8v-1JHW6AYCzhwmjycVPKfNZC7d)
+ | [Playlist no YouTube das aulas online do James Kurose](https://www.youtube.com/playlist?list=PLbQD6k8v-1JHW6AYCzhwmjycVPKfNZC7d)
 
 [Slides](http://gaia.cs.umass.edu/kurose_ross/ppt.htm)
 

@@ -1,5 +1,5 @@
 # Transmissão de Dados
-Repositório para a disciplina de Transmissão de Dados da Universidade de Brasília
+Repositório para a disciplina de Transmissão de Dados da Universidade de Brasília.
 
 ## Links úteis
 
@@ -11,3 +11,6 @@ Repositório para a disciplina de Transmissão de Dados da Universidade de Bras�
 [Laboratórios Wireshark](http://gaia.cs.umass.edu/kurose_ross/wireshark.htm)
 
 [Problemas interativos](http://gaia.cs.umass.edu/kurose_ross/interactive/)
+
+## Progresso dos exercícios de fim de capítulo
+[Capítulo 1](https://github.com/yudi-azvd/td/issues/2)

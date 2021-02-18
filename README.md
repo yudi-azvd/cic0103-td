@@ -12,7 +12,7 @@ Repositório para a disciplina de Transmissão de Dados da Universidade de Bras�
 
 [Problemas interativos](http://gaia.cs.umass.edu/kurose_ross/interactive/)
 
-## Progresso dos exercícios de fim de capítulo
+## Progresso dos [exercícios de fim de capítulo](https://github.com/yudi-azvd/td/issues)
 [Capítulo 1](https://github.com/yudi-azvd/td/issues/2)
 
 [Capítulo 2](https://github.com/yudi-azvd/td/issues/3)

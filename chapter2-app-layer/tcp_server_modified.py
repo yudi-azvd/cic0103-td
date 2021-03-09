@@ -7,10 +7,10 @@ https://stackoverflow.com/questions/10114224/how-to-properly-send-http-response-
 
 from socket import *
 
-serverPort = 12000
-serverSocket = socket(AF_INET, SOCK_STREAM)
-serverSocket.bind(('', serverPort))
-serverSocket.listen(1)
+server_port = 12000
+server_socket = socket(AF_INET, SOCK_STREAM)
+server_socket.bind(('', server_port))
+server_socket.listen(1)
 
 print('The server is ready to receive')
 
@@ -24,8 +24,8 @@ Content-Type: text/html
 '''
 
 while True:
-  connectionSocket, addr = serverSocket.accept()
-  http_req = connectionSocket.recv(1024).decode()
+  connection_socket, addr = server_socket.accept() # servidor vai esperar handshake de um cliente
+  http_req = connection_socket.recv(1024).decode()
 
   client_message = http_req.split()[1]
 
@@ -36,5 +36,5 @@ while True:
 
   capitalizedSentence = http_req.upper()
   # connectionSocket.send(capitalizedSentence.encode())
-  connectionSocket.send(message.encode())
-  connectionSocket.close()
+  connection_socket.send(message.encode())
+  connection_socket.close()

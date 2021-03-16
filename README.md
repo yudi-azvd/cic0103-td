@@ -12,6 +12,8 @@ Repositório para a disciplina de Transmissão de Dados da Universidade de Bras�
 
 [Problemas interativos](http://gaia.cs.umass.edu/kurose_ross/interactive/)
 
+[Companion Website](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
+
 ## Progresso dos [exercícios de fim de capítulo](https://github.com/yudi-azvd/td/issues)
 [Capítulo 1](https://github.com/yudi-azvd/td/issues/2)
 

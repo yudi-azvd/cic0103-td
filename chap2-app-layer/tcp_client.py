@@ -4,7 +4,7 @@ server_name = 'localhost'
 server_port = 12000
 
 client_socket = socket(AF_INET, SOCK_STREAM) # stream de bits/socket TCP
-client_socket.connect((server_name, server_port))
+client_socket.connect((server_name, server_port)) # handshake
 
 sentence = input('Input lowercase sentence: ')
 

@@ -4,7 +4,7 @@
 
 from socket import *
 
-server_port = 12000
+server_port = 12001
 server_socket = socket(AF_INET, SOCK_STREAM)  # stream de bits/socket TCP 
 server_socket.bind(('', server_port))
 server_socket.listen(1)
@@ -15,7 +15,7 @@ while True:
   # um novo socket é criado para cada comunicação com o cliente
   print('server waiting client...')
   connection_socket, addr = server_socket.accept() # servidor vai esperar handshake de um cliente
-  print('client connected')
+  print('client connected:', connection_socket)
 
   sentence = connection_socket.recv(1024).decode()
   print('msg received:', sentence, '\n')

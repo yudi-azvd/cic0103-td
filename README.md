@@ -12,7 +12,7 @@ Repositório para a disciplina de Transmissão de Dados da Universidade de Bras�
 
 [Problemas interativos](http://gaia.cs.umass.edu/kurose_ross/interactive/)
 
-[Companion Website](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/) | [Extra labs](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/#misclabs)
+[Companion Website](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/) | [Extra labs](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/#misclabs) | [Applets](https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198702.cw/index.html)
 
 ## Progresso dos [exercícios de fim de capítulo](https://github.com/yudi-azvd/td/issues)
 [Capítulo 1](https://github.com/yudi-azvd/td/issues/2)

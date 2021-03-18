@@ -1,0 +1,6 @@
+5
+index.html
+content.json
+media.avi
+music.mp3
+this_does_not_exist

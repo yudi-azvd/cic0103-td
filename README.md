@@ -14,7 +14,7 @@ Repositório para a disciplina de Transmissão de Dados da Universidade de Bras�
 
 [Companion Website](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/) | [Applets](https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198702.cw/index.html)
 
-## Progresso dos [exercícios de fim de capítulo](https://github.com/yudi-azvd/td/issues)
+## Progresso dos [exercícios de fim de capítulo](https://github.com/yudi-azvd/td/issues?q=is%3Aissue+is%3Aopen+%22Cap%C3%ADtulo%22)
 [Capítulo 1](https://github.com/yudi-azvd/td/issues/2)
 
 [Capítulo 2](https://github.com/yudi-azvd/td/issues/3)

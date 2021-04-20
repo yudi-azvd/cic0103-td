@@ -1,4 +1,4 @@
-# CIC0103 - Transmissão de Dados
+#  Transmissão de Dados (CIC0103)
 Repositório para a disciplina de Transmissão de Dados da Universidade de Brasília.
 
 ## Links úteis

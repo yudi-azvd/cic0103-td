@@ -4,4 +4,4 @@
 Não sei se vou realmente fazer esse labs extras. Só vou deixar aqui.
 
 ## Estrutura do ambiente emulado
-<img src="../../.github/figpa21.gif">
+<img src="./figpa21.gif">

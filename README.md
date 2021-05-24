@@ -1,10 +1,15 @@
 # Transmissão de Dados (CIC0103)
 Repositório para a disciplina de Transmissão de Dados da Universidade de Brasília.
 
+
 ## Links úteis
 
 [Aulas online e perguntas de revisão](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
-| [Minha playlist no YouTube das aulas online do James Kurose](https://www.youtube.com/playlist?list=PLbQD6k8v-1JHW6AYCzhwmjycVPKfNZC7d)
+| [Playlist no YouTube das aulas online do James Kurose](https://www.youtube.com/playlist?list=PLbQD6k8v-1JHW6AYCzhwmjycVPKfNZC7d)
+
+[Video aulas UnB - Camada de redes](https://www.youtube.com/playlist?list=PLYwZrh5swok8jEh9zYFr-TbdK7EaUuKU9)
+
+[Video aulas UnB - Camada de enlace](https://www.youtube.com/playlist?list=PLbjXYeam_XbZKEutFY6gq_4nSifm9HXUY)
 
 [Slides](http://gaia.cs.umass.edu/kurose_ross/ppt.htm)
 
